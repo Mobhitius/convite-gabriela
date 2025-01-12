@@ -51,7 +51,7 @@ const accept = () => {
   <div v-if="step === 2" class="container">
     <h2>Sabia que você iria aceitar hahahah minha deusa perfeita</h2>
     <h3>Avisa quando chegar em Rio Branco que a gente marca a cerimônia e já adianta a lua de mel!! 😈❤️</h3>
-    <h4>Com amor, seu admirador secreto e futuro marido
+    <h4>Com amor, seu admirador secreto e futuro marido</h4>
 
   </div>
 </template>
